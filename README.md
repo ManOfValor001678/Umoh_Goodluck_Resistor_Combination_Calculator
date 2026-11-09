@@ -32,3 +32,13 @@ Maximum Possible Resistance: 682.50 Ohms
 
 Thank you for using the Resistor Calculator!
 
+
+My Own Twist 
+Added a Tolerance & Worst-Case Range Analysis feature that lets users input component tolerance percentages (e.g., 5% or 10%) to calculate the exact minimum and maximum real-world equivalent resistance boundaries, accounting for manufacturing variances.
+
+What I learned
+I learned how to safely handle user input errors using try-except loops so the program doesn't crash when someone types letters instead of numbers. I also practiced structuring code with modular functions that return values
+
+Author
+Umoh Goodluck Nsikak, ND2 Mechatronics Engineering, YabaTech.
+
